@@ -1,0 +1,1730 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [170.0787401574803255 830.1035433070866247 356.0187401574803516 809.4035433070865793] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 757.3974015748030979 228.372913385826763 738.9974015748031206] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831510) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 573.1454330708661473 189.492913385826796 554.7454330708660564] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831511) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 261.3344094488188603 228.8529133858268096 242.9344094488187693] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831512) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3600
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0. 0. 1. rg
+170.0787401574803255 813.5435433070865656 Td
+(ChatGPT for Beginners) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 742.6774015748030706 Td
+(Introduction to ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 700.15771653543311 Td
+(03:46) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 685.9844881889763428 Td
+(Ok Now Schedule a game plan for a 2 hour party based on teh above suggestions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 657.6380314960629221 Td
+(02:36) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(Explain quantum computing in simple terms) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 615.1183464566928478 Td
+(03:16) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(Got any creative ideas for a 10 year old's birthday?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 558.42543307086612 Td
+(What is ChatGPT?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 515.9057480314959321 Td
+(00:47) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(* Open AI.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 473.3860629921259147 Td
+(00:48) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 459.2128346456692611 Td
+(* November 30, 2022) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 430.8663779527558404 Td
+(00:49) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 416.69314960629913 Td
+(* trained to follow instructions in prompts and provide detailed responses.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 388.3466929133857661 Td
+(00:50) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 374.1734645669290558 Td
+(* Conversational, Versatile) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 345.8270078740156919 Td
+(00:52) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(* Supervised and reinforced leaning) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 303.3073228346455608 Td
+(00:53) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(* Dataset contains information till 2021.) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 246.614409448818833 Td
+(Curriculum development) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 204.0947244094487587 Td
+(01:25) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(Chat GPT syllabus) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 161.5750393700786844 Td
+(02:11) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 147.4018110236219172 Td
+(Chat GPT curriculum for K-12 learners) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 119.0553543307086102 Td
+(02:33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 104.882125984251843 Td
+(\(NEW\): Curriculum design for teaching chat GPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 76.5356692913385359 Td
+(04:15) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 62.3624409448817687 Td
+(Curriculum design for teaching chat GPT to K-12 learners) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 34.0159842519684616 Td
+(07:41) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 19.8427559055116944 Td
+(Curruculum design Stress relieving through painting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 -8.5037007874017263 Td
+(09:25) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 714.8777165354330236 262.7729133858267687 696.4777165354330464] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831513) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 488.1060629921259419 291.8929133858267733 469.7060629921259078] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831514) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 261.3344094488188603 318.4529133858267755 242.9344094488187693] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831515) >> >>
+]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3837
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(Curriculum design Stress relieving through painting for BE student) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 756.8506299212598378 Td
+(10:22) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(Causes of stress in the academic environment for BE learners) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 700.15771653543311 Td
+(Coding prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 657.6380314960629221 Td
+(01:30) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(Create a code Range Kutta Algorithm) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 615.1183464566928478 Td
+(02:17) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(Create  a code Runge-Kutta Algorthim in C++) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 572.5986614173227736 Td
+(02:58) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(Create a code Runge-kutta Algorithm in C++ worst case time complexity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 530.0789763779526993 Td
+(04:47) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 515.9057480314959321 Td
+(Convert above code to Python) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 473.3860629921259147 Td
+(Suggestion prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 430.8663779527558404 Td
+(00:47) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 416.69314960629913 Td
+(Suggestion for Party games for birthday parties 7-10 years) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 388.3466929133857661 Td
+(01:31) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 374.1734645669290558 Td
+(Suggestion for Party games for birthday parties- 25 years) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 345.8270078740156919 Td
+(02:06) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(Suggestion for Party games for college reunions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 303.3073228346455608 Td
+(02:48) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(Suggestion for Party games for college reunions with children) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 246.614409448818833 Td
+(Summarization prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 204.0947244094487587 Td
+(01:56) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(AWS or Any blog whole blog copy and Summarize the following:- and the paste the blog text.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 161.5750393700786844 Td
+(02:37) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 147.4018110236219172 Td
+(Further summarize the above paragraph) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 119.0553543307086102 Td
+(04:28) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 104.882125984251843 Td
+(AWS or Any blog whole blog copy and Summarize the negative voice:- and the paste the blog text.\(This was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 90.7088976377951894 Td
+(the negative feedback for the blog\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 62.3624409448817687 Td
+(05:25) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 48.1892125984251152 Td
+(Further summarize with negative voice \(It could not work\) because provide negative voices and objective) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 34.0159842519684616 Td
+(summaries without any inherent bias or judgement.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 799.9170866141731722 142.2929133858267789 781.5170866141731949] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831516) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 530.6257480314959594 252.2129133858267664 512.2257480314960958] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831517) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 91.2556692913384495 268.2129133858267664 72.8556692913385859] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831518) >> >>
+]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3996
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 785.1970866141732586 Td
+(Career Path) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 742.6774015748030706 Td
+(00:32) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Ways to earn money for a highschool graduate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 700.15771653543311 Td
+(01:17) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 685.9844881889763428 Td
+(How can Freelancing help me. How do i get started.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 657.6380314960629221 Td
+(02:25) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(Top videos for freelanching jobs on youtube) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 615.1183464566928478 Td
+(03:15) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(What to do after my highschool if i am interested in medicine) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 572.5986614173227736 Td
+(04:35) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(What to do after my highschool if i am interesteded in medicine in INDIA) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 515.9057480314959321 Td
+(Email prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 473.3860629921259147 Td
+(01:05) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 459.2128346456692611 Td
+(email subject line for Manager post job application) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 430.8663779527558404 Td
+(01:33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 416.69314960629913 Td
+(List of suggestions of email subject line for Manager post job application) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 388.3466929133857661 Td
+(02:18) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 374.1734645669290558 Td
+(create an email for Manager post job application) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 345.8270078740156919 Td
+(03:04) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(Email for Application for late submission of assignment due to ill health.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 303.3073228346455608 Td
+(04:04) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(email for Feedbacks to e-commerce site on a dress which was torn.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 260.7876377952754865 Td
+(04:57) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(email subject lines suggestions for upsell new collection of versace bags for fall season) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 218.2679527559054122 Td
+(05:33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 204.0947244094487587 Td
+(email for upsell new collection of versace bags for spring season) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 175.748267716535338 Td
+(06:26) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 161.5750393700786844 Td
+(email for upsell new collection of versace bags for spring season passive voice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 133.2285826771652637 Td
+(07:19) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 119.0553543307086102 Td
+(email for upsell new collection of versace bags for spring season informal) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 76.5356692913385359 Td
+(Content prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 34.0159842519684616 Td
+(00:57) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 19.8427559055116944 Td
+(traditional italina Alfredo pasta recipe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 -8.5037007874017263 Td
+(02:26) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 544.7989763779527266 205.8129133858268176 526.3989763779527493] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831519) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 232.9879527559054395 147.7329133858267483 214.5879527559054623] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831520) >> >>
+]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3866
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(But traditionally Alfredo sauce has no heavy cream) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 756.8506299212598378 Td
+(03:30) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(So why did you give the heavy cream in the previous recepie?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 714.3309448818897636 Td
+(04:54) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(So did you give the heavy cream recipe only because it is famous?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 671.8112598425196893 Td
+(06:24) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 657.6380314960629221 Td
+(authentic italian Alfredo pasta recipe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 629.291574803149615 Td
+(07:58) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 615.1183464566928478 Td
+(authentic italian Alfredo pasta recipe for vegans) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 586.7718897637794271 Td
+(08:35) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 572.5986614173227736 Td
+(authentic italian Alfredo pasta recipe for vegan diabetics) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 530.0789763779526993 Td
+(Feedback generation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 487.559291338582625 Td
+(01:49) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 473.3860629921259147 Td
+(Positive feedback for traditional italian Alfredo pasta recipe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 445.0396062992125508 Td
+(01:51) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(generate Positive feedback for traditional italian Alfredo pasta recipe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 402.5199212598424765 Td
+(02:38) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 388.3466929133857661 Td
+(Paraphrased above feedback to be more relatable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 360.0002362204724022 Td
+(03:21) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 345.8270078740156919 Td
+(generate negative feedback for traditional italian Alfredo pasta recipe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 317.480551181102328 Td
+(04:43) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 303.3073228346455608 Td
+(Paraphrase the above feedback to be more informal) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 274.9608661417322537 Td
+(05:37) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 260.7876377952754865 Td
+(Paraphrase the following:- \(any paragraph copy and then paste\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 218.2679527559054122 Td
+(Script writing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 175.748267716535338 Td
+(01:03) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 161.5750393700786844 Td
+(Character description A good character that looks evil) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 133.2285826771652637 Td
+(02:29) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 119.0553543307086102 Td
+(Character descripition fairy who is the opposite of Tinkebel) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 90.7088976377951894 Td
+(03:58) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 76.5356692913385359 Td
+(Character description A Fairy with learning disabilities--children book) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 48.1892125984251152 Td
+(05:45) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 34.0159842519684616 Td
+(Character description A Fairy with learning disabilities--young adult book) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 799.9170866141731722 260.2129133858267664 781.5170866141731949] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831521) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 573.1454330708661473 275.7329133858268619 554.7454330708660564] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831522) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 388.893464566929083 276.3729133858268483 370.4934645669290489] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831523) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 204.6414960629920188 147.5729133858267801 186.2414960629920415] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831524) >> >>
+]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3663
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 785.1970866141732586 Td
+(Report prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 742.6774015748030706 Td
+(01:23) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Diagnostic report template) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 700.15771653543311 Td
+(02:37) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 685.9844881889763428 Td
+(Write a positive diagonostic report for diabetics and cholestrol) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 657.6380314960629221 Td
+(03:40) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(Write a negative diagnostic report for diabetics and cholestrol) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 615.1183464566928478 Td
+(05:12) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(Financial report templated for first quarter of 2023) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 558.42543307086612 Td
+(Keyword based text generation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 515.9057480314959321 Td
+(00:35) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(Stories:- house, cat, rain, catnip) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 473.3860629921259147 Td
+(01:32) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 459.2128346456692611 Td
+(Poetry:- house, cat, rain, catnip) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 430.8663779527558404 Td
+(02:19) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 416.69314960629913 Td
+(An adevert script using cats, house, rain and catnip) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 374.1734645669290558 Td
+(Keyword generation and usage) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 331.6537795275589815 Td
+(00:49) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 317.480551181102328 Td
+(Keywords for google ads for fashion brand) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 289.1340944881889072 Td
+(01:46) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 274.9608661417322537 Td
+(Bucket these keywords under different categories as per intent.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 246.614409448818833 Td
+(02:25) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 232.4411811023621794 Td
+(Ok now write a script for ad using the informational bucket) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 189.9214960629919915 Td
+(Social media) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 147.4018110236219172 Td
+(01:46) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 133.2285826771652637 Td
+(Instagram post:- sun, sand and beaches) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 104.882125984251843 Td
+(02:29) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 90.7088976377951894 Td
+(Make the above caption more relatable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 62.3624409448817687 Td
+(02:55) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 48.1892125984251152 Td
+(List of instagram post :- sun, sand and beaches) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 19.8427559055116944 Td
+(03:35) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 5.6695275590550409 Td
+(Tweet :- sun, sand and beaches) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 -22.6769291338583798 Td
+(04:00) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 672.3580314960629494 282.2929133858267505 653.9580314960629721] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831525) >> >>
+<</Type /Annot /Subtype /Link /Rect [56.6929133858267775 403.0666929133857366 221.3329133858267426 384.6666929133857593] /Border [0 0 0] /A <</S /URI /URI (https://olympus.mygreatlearning.com/courses/91536/modules/items/3831526) >> >>
+]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3402
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(Tweet :- sun, sand and beaches in formal voice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 756.8506299212598378 Td
+(04:30) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(Twitter post :- current health scenario Canada) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 714.3309448818897636 Td
+(05:50) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(\(Copy the any post line and paste\):- make it more engaging) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 657.6380314960629221 Td
+(Marketing prompts for ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 615.1183464566928478 Td
+(01:23) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(USPs for honda car) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 572.5986614173227736 Td
+(02:11) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(create a google ad using above usps for honda civil car) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 530.0789763779526993 Td
+(03:10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 515.9057480314959321 Td
+(create a list of google ads using above usps for honda civil car) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 487.559291338582625 Td
+(04:10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 473.3860629921259147 Td
+(create a marketing ad script using above usps for honda civil car) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 445.0396062992125508 Td
+(05:08) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(create a marketing ad script using above usps for honda civil car father and daughter) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0. 0. 1. rg
+56.6929133858267775 388.3466929133857661 Td
+(Limitations of ChatGPT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 345.8270078740156919 Td
+(00:22) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(* Ethical Considerations) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 303.3073228346455608 Td
+(00:24) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(* Malware) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 260.7876377952754865 Td
+(00:37) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(* Phishing emails) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 218.2679527559054122 Td
+(00:51) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 204.0947244094487587 Td
+(* Scalability issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 175.748267716535338 Td
+(01:07) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 161.5750393700786844 Td
+(* Copyright and plagiarism issues) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 133.2285826771652637 Td
+(01:36) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 119.0553543307086102 Td
+(* Repetition after multiple similar prompts) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.502 0. rg
+56.6929133858267775 90.7088976377951894 Td
+(02:00) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 76.5356692913385359 Td
+(* Outdated training datasets may cause problems.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R ]
+/Count 6
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 15 0 R
+/F2 16 0 R
+/F3 17 0 R
+/F4 18 0 R
+/F5 19 0 R
+/F6 20 0 R
+/F7 21 0 R
+/F8 22 0 R
+/F9 23 0 R
+/F10 24 0 R
+/F11 25 0 R
+/F12 26 0 R
+/F13 27 0 R
+/F14 28 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+29 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230626185751+05'30')
+>>
+endobj
+30 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000027797 00000 n 
+0000029651 00000 n 
+0000000015 00000 n 
+0000001081 00000 n 
+0000004733 00000 n 
+0000005587 00000 n 
+0000009476 00000 n 
+0000010328 00000 n 
+0000014376 00000 n 
+0000014996 00000 n 
+0000018915 00000 n 
+0000020005 00000 n 
+0000023721 00000 n 
+0000024342 00000 n 
+0000027886 00000 n 
+0000028012 00000 n 
+0000028143 00000 n 
+0000028277 00000 n 
+0000028415 00000 n 
+0000028539 00000 n 
+0000028668 00000 n 
+0000028800 00000 n 
+0000028936 00000 n 
+0000029064 00000 n 
+0000029191 00000 n 
+0000029320 00000 n 
+0000029453 00000 n 
+0000029555 00000 n 
+0000029904 00000 n 
+0000029990 00000 n 
+trailer
+<<
+/Size 31
+/Root 30 0 R
+/Info 29 0 R
+/ID [ <DC057F76FB5E1F8DD1E9E44589521588> <DC057F76FB5E1F8DD1E9E44589521588> ]
+>>
+startxref
+30094
+%%EOF
